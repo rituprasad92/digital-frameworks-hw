@@ -3,3 +3,6 @@
 *Louisiana 3*
 
 Due THURS. JUNE 29
+1. General biographic information
+2. Past career
+3. Goals

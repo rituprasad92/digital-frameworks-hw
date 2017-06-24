@@ -18,14 +18,17 @@ Higgins is a Republican who supports Trump and calls himself a Constitutionalist
 Committee on Homeland Security
 - Subcommittee on Oversight and Management Efficiency
 - Subcommittee on Transportation and Protective Security
+
 Committee on Science, Space, and Technology
 - Subcommittee on Environment
 - Subcommittee on Oversight
 - Subcommittee on Space
+
 Committee on Veterans' Affairs
 - Subcommittee on Health
 
 2. Personal Life
+
 Higgins has been married 4 times. A child support lawsuit was filed against him during his campaign, alleging he has $140,000 in unpaid child support.
 
 *Higgins claimed that winning the election would help him to pay the child support arrears, but to this date has failed to make the promised child support payments. Higgins has been married four times and has failed to abide by a Texas Court Ordered Child Support, thus the lawsuit filed for non-payment. To date, Higgins has not paid his child support debt to his ex-wife. His attorney is claiming that he is too 'busy' now. - WIKIPEDIA*

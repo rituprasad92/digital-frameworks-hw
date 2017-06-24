@@ -4,6 +4,7 @@
 
 Due THURS. JUNE 29
 1. General biographic information / past career
+
 Clay Higgins was born Aug 24, 1961 (55 years old). He is the seventh of 8 children. Higgins grew up on a ranch near Covington, LA. He attended Lousiana State University and then served in the Army/Louisiana National Guard as a Military Police Officer (rank: E-6 Staff Sergeant). Higgins managed a car dealership after, then returned to serve as a street cop in 2004 at the Opelousas Police Department. Four years later, he resigned instead of receiving disciplinary action after striking a handcuffed suspect:
 
 *The Opelousas Police Department’s Discipline Review Board found that "Clay Higgins used unnecessary force on a subject during the execution of a warrant and later gave false statements during an internal investigation. Although he later recanted his story and admitted to striking a suspect in handcuffs and later releasing him". - WIKIPEDIA*

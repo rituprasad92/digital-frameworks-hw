@@ -14,6 +14,7 @@ Higgins is a Republican who supports Trump and calls himself a Constitutionalist
 *“Not a single radicalized Islamic suspect should be granted any measure of quarter. Their intended entry to the American homeland should be summarily denied. Every conceivable measure should be engaged to hunt them down. Hunt them, identify them, and kill them. Kill them all. For the sake of all that is good and righteous. Kill them all.”*
 
 **Committee assignments:**
+
 Committee on Homeland Security
 - Subcommittee on Oversight and Management Efficiency
 - Subcommittee on Transportation and Protective Security

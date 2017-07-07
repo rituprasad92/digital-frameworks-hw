@@ -22,5 +22,7 @@ In general, Clay Higgins votes with his party. He is a self-identified Constitut
   >> https://www.congress.gov/bill/115th-congress/house-bill/998/text
   
   >>This bill was called the SCRUB act, or: "Searching for and Cutting Regulations that are Unnecessarily Burdensome Act"
-  >> 156 Republicans voted for the bill, 75 voted no
-  >> In contrast, all Democrats voted for the bill except one
+  
+  >> 156 Republicans voted for the bill, 75 voted no.
+  
+  >> In contrast, all Democrats voted for the bill except one (who was not present).

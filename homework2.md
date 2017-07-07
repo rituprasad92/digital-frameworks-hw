@@ -16,6 +16,8 @@ NO. TIMES HIGGINS VOTED AGAINST NUNES: 2
 
 NO. TIMES HIGGINS VOTED AGAINST PELOSI: 221
 
+In general, Clay Higgins votes with his party. He is a self-identified Constitutionalist and is in general very conservative and supports the current administration.
+
 **Interesting find: Higgins voted with Pelosi and against Nunes and Scalise on H.R.998, the SCRUB act.** 
   >> https://www.congress.gov/bill/115th-congress/house-bill/998/text
   >> This bill was called the SCRUB act, or: "Searching for and Cutting Regulations that are Unnecessarily Burdensome Act"

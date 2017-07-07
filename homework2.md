@@ -3,7 +3,9 @@ NO. TIMES HIGGINS VOTED NO: 81
 NO. TIMES HIGGINS VOTED YES: 239
 
 NO. TIMES HIGGINS DID NOT VOTE: 3 
+  
   *Those were the following bills (all passed):*
+  
   1. H.R.1238	Securing our Agriculture and Food Act 
   2. H.RES.378	Providing for consideration of H.R. 2581, the Verify First Act; and providing for consideration of S. 1094, the Department of Veterans Affairs Accountability and Whistleblower Protection Act of 2017
   3. H.RES.378	Providing for consideration of H.R. 2581, the Verify First Act; and providing for consideration of S. 1094, the Department of Veterans Affairs Accountability and Whistleblower Protection Act of 2017

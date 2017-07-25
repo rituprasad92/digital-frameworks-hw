@@ -1,6 +1,6 @@
 **Pro-Gun, Pro-Oil Companies Are The Biggest Dollars Behind Clay Higgins' Campaign**
 
-Clay Higgins, R-La., has recieved at least $37,550 from companies affiliated with big oil, gas, off-shore drilling, and gun-related industries. As a freshman congressman, he's already made it clear that he is against Obama-era regulations on oil and gas; as a self-described staunch Constituionalist, he's also very against any gun control legislation. Looking at his campaign finances paints a clear picture of Higgins' interests - and who is interested in him.
+Clay Higgins, R-LA, has recieved at least $37,550 from companies affiliated with big oil, gas, off-shore drilling, and gun-related industries. As a freshman congressman, he's already made it clear that he is against Obama-era regulations on oil and gas; as a self-described staunch Constituionalist, he's also very against any gun control legislation. Looking at his campaign finances paints a clear picture of Higgins' interests - and who is interested in him.
 
 Higgins has raised a total of $224,066.81 since January 01, 2017. Of that, it appears that he himself contributed no money. A total of $133,408.97 came from itemized individual contributions, while another $12,977.84 remained unitemized. While no Republican parties contributed funds, other committees contributed a total of $78,650 to Higgins' campaign. Of what his campaign has raised thus far, Higgins has spent $205,716.12, and has approximately $44,000 on hand. 
 

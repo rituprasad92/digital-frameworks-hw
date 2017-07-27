@@ -8,3 +8,5 @@ Sharks are apex predators, armed with 50 teeth, serrated and all-the-better-to-e
 <img src="https://github.com/rituprasad92/digital-frameworks-hw/blob/master/chart.png?raw=true">
 
 Fun fact: Did you know in the 16th century, mariners called sharks 'sea-dogs'? Makes them seem a lot cuddlier, huh?
+
+*NOTE - Hi Rachel! I wasn't sure if we were supposed to use the chartbuilder tool exclusively but I liked the formatting better via Excel, so that's what I went with. It was kinda smushing the data in chartbuilder.*

@@ -18,3 +18,17 @@ For reference, our moon is 238,900 miles away, and it took us three days to get 
 2012-TC4 has been out of our sight since its discovery in October 2012. At that time, the asteroid zoomed by, 59,725 miles away from Earth. You’re probably envisioning a mountain-sized colossus careening past us, but 2012-TC4 is actually estimated to be only between 12-27 meters (or 30-100 feet) in size. That said, it’s within the same size range of <a href="https://www.space.com/33623-chelyabinsk-meteor-wake-up-call-for-earth.html">the meteor that hit Chelyabinsk, Russia last year</a>—the event released a shockwave that injured around 1,200 people. 
 
 But, it’s still no extinction-worthy space rock, and Paul Chodas, manager of the Center of NEO Studies said that NASA knows “the orbit of 2012-TC4 well enough to be certain that it won’t hit Earth” when it comes around again this October. It would take something several miles wide to cause any worldwide harm. In fact, rocks smaller than 25 meters (82 feet) in diameter end up burning away in our atmosphere and never even making impact.
+
+### And now, some data
+
+So how many asteroids are out there, ricocheting off each other and other space bodies, with the potential of one day bouncing off our blue planet? Here’s one look at the spread—these are all the known sizable near-Earth objects that will pass close to Earth within the next year that NASA knows about:
+
+As you can see by the fairly useless trendline, these rocks are random. While it seems like next February has the most objects coming through our space neighborhood, it’s not really indicative of a pattern. There are over 150 million estimated asteroids in the inner solar system, and that’s a conservative estimate. Thanks to the randomness of their orbits, the vast majority will never even come close to Earth. For the ones that do, as the data above shows, they generally come and go at safe distances in unpredictable intervals.
+
+Just because these rocks have random orbits and interactions doesn’t mean we don’t know anything about them. NASA’s managed to document these space rocks largely through the NEOWISE project: the asteroid-hunting aspect of the Wide Field Infrared Survey Explorer mission that began in 2009. The explorer scanned and found hundreds of thousands of objects, including planets! But we don’t care about planets right now; we care about their volatile little siblings.
+
+Currently, the NEOWISE project is focusing on extending the search to comets and asteroids that exist further out. NASA has data on the velocity, the time frame, and perhaps most importantly, the estimated sizes of these near-Earth objects. 
+
+### What about the really big ones?
+
+

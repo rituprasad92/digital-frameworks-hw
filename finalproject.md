@@ -23,6 +23,8 @@ But, it’s still no extinction-worthy space rock, and Paul Chodas, manager of t
 
 So how many asteroids are out there, ricocheting off each other and other space bodies, with the potential of one day bouncing off our blue planet? Here’s one look at the spread—these are all the known sizable near-Earth objects that will pass close to Earth within the next year that NASA knows about:
 
+<img src="digital-frameworks-hw/chart-3.png">
+
 As you can see by the fairly useless trendline, these rocks are random. While it seems like next February has the most objects coming through our space neighborhood, it’s not really indicative of a pattern. There are over 150 million estimated asteroids in the inner solar system, and that’s a conservative estimate. Thanks to the randomness of their orbits, the vast majority will never even come close to Earth. For the ones that do, as the data above shows, they generally come and go at safe distances in unpredictable intervals.
 
 Just because these rocks have random orbits and interactions doesn’t mean we don’t know anything about them. NASA’s managed to document these space rocks largely through the NEOWISE project: the asteroid-hunting aspect of the Wide Field Infrared Survey Explorer mission that began in 2009. The explorer scanned and found hundreds of thousands of objects, including planets! But we don’t care about planets right now; we care about their volatile little siblings.

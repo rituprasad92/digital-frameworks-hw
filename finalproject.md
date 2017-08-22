@@ -23,9 +23,11 @@ But, it’s still no extinction-worthy space rock, and Paul Chodas, manager of t
 
 So how many asteroids are out there, ricocheting off each other and other space bodies, with the potential of one day bouncing off our blue planet? Here’s one look at the spread—these are all the known sizable near-Earth objects that will pass close to Earth within the next year that NASA knows about:
 
-<img src="https://github.com/rituprasad92/digital-frameworks-hw/chart-3.png">
+(https://github.com/rituprasad92/digital-frameworks-hw/chart-3.png)
 
 As you can see by the fairly useless trendline, these rocks are random. While it seems like next February has the most objects coming through our space neighborhood, it’s not really indicative of a pattern. There are over 150 million estimated asteroids in the inner solar system, and that’s a conservative estimate. Thanks to the randomness of their orbits, the vast majority will never even come close to Earth. For the ones that do, as the data above shows, they generally come and go at safe distances in unpredictable intervals.
+
+(https://github.com/rituprasad92/digital-frameworks-hw/chart-2.png)
 
 Just because these rocks have random orbits and interactions doesn’t mean we don’t know anything about them. NASA’s managed to document these space rocks largely through the NEOWISE project: the asteroid-hunting aspect of the Wide Field Infrared Survey Explorer mission that began in 2009. The explorer scanned and found hundreds of thousands of objects, including planets! But we don’t care about planets right now; we care about their volatile little siblings.
 
@@ -33,4 +35,14 @@ Currently, the NEOWISE project is focusing on extending the search to comets and
 
 ### What about the really big ones?
 
+This chart leaves off three outliers, however. These, as you may have assumed, are the three biggies. So let’s take a look at the three NEOs that could, if they hit us, cause some serious damage.
 
+
+
+Of these three behemoths, it’s only 1981 ET3, the asteroid known as Florence, that fits the bill for some dino-worthy destruction. At 5.5 miles in diameter, Florence is the largest asteroid NASA has ever tracked this close to home, and she’ll be our temporary neighbor at the start of next month.
+
+“While many known asteroids have passed by closer to Earth than Florence will on September 1, all of those were estimated to be smaller,” said Paul Chodas, manager of NASA’s Center for Near-Earth Object Studies. “Florence is the largest asteroid to pass by our planet this close since the NASA program to detect and track near-Earth asteroids began.”
+
+Florence will still be over four million miles away from us when she passes by, but she’ll be close enough for NASA to get images of her surface, including details as small as 30 feet in size.
+
+If you fancy yourself an asteroid hunter, get thee to <a href="https://www.nasa.gov/planetarydefense/faq">NASA’s website</a> to learn more about how you too can protect the planet. But for now, it seems that our biggest doom concerns are rather self-inflicted. 

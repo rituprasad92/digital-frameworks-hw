@@ -43,6 +43,8 @@ Of these three behemoths, it’s only 1981 ET3, the asteroid known as Florence, 
 
 “While many known asteroids have passed by closer to Earth than Florence will on September 1, all of those were estimated to be smaller,” said Paul Chodas, manager of NASA’s Center for Near-Earth Object Studies. “Florence is the largest asteroid to pass by our planet this close since the NASA program to detect and track near-Earth asteroids began.”
 
+<img src="https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/asteroidflorence20170817.jpg?itok=yuIyzYKv"></a>
+
 Florence will still be over four million miles away from us when she passes by, but she’ll be close enough for NASA to get images of her surface, including details as small as 30 feet in size.
 
 If you fancy yourself an asteroid hunter, get thee to <a href="https://www.nasa.gov/planetarydefense/faq">NASA’s website</a> to learn more about how you too can protect the planet. But for now, it seems that our biggest doom concerns are rather self-inflicted. 
